@@ -1,0 +1,660 @@
+Please provide your email and mobile number in the chat room.
+Demo designed for all types of students [Freshers to Experienced]...Not very advanced level at the same time not very basic level
+
+========================================================================================
+Power BI First Demo Agenda
+========================================================================================
+a) Introduction
+b) Data, Data Availability, Formats, Storages
+c) BI, BI Tools, BI Technologies, Power BI, Power Platform
+d) Power BI Components [ exclusive components which we cover]
+d) Power BI Practice [end-end] : Case Study 
+
+Demo Intended For: Freshers to Experienced 
+
+Already Expereinced in IT / Master in one technology / Having Knowledge in BI: Demo...Demo Video from management
+========================================================================================
+Introduction
+========================================================================================
+45-50 days duration
+Daily 1-1.15 Min
+Mon-Fri classes, Monthly 2 satdays classes
+
+We provide
+a) Quality Material
+b) Daily video
+c) Faqs and Resumes
+d) 2 Projects and Multiple case studies
+
+I am currently working 
+
+a) One of the best employee in my BI Team [ Senior Lead Consultant]
+b) Many achievements in my Academics and Professional Courses
+c) Very strong in BI (End-End) and approaches
+
+Highlights in my classes
+
+a)Quality Materials
+b)Daily videos
+c) Good realtime understanding
+d) Resume and Faqs
+e) Casestudy practice
+f) More components in Power BI
+
+Power BI Components
+
+a) Power BI Cloud Desktop [Power Query, Power Pivot, Power View, DAX, Mashup]
+b) Power BI Cloud Service [app.powerbi.com]
+
+c) Power BI Report Server Desktop [exclusive]
+d) Power BI Report Server [exclusive]
+e) Power Automate [exclusive] (2)
+f) Microsoft Cubes [exclusive] (3 hrs)
+g) REST Understanding [exclusive]
+h) Power BI Report Builder [exclusive]
+i) Azure (2 hrs)
+j) SQL (3 hrs)
+k)Power Apps (3 hrs)
+
+What is Power Platform?
+
+This is the platform given by MicroSoft to perform multiple and different operations in a sinle area.
+
+a) Power BI [40 days] :Create reports (insights and analytics) and dashboards
+b) Power Automate [2-3 hrs]: Scheduling the operations
+c) Power Apps [2-3 hrs]: Act support to the Power platform. 
+
+Training is Systematic and Very Detailed.
+
+========================================================================================
+b) Data, Data Availability, Formats, Storages
+========================================================================================
+Data: Anything you are able to store is called data
+Data Availability: We have three types of data now
+
+	a) Structured Data [since 1940...]
+		Business data [irctc, bookmyshow etc.]
+	b) Semi-Structured Data [since 2000...]
+		Log, Journal etc..
+	c) Unstrctured Data [since 2005]
+		Social  media [whatsapp, twitter, etc.]
+		Docs Data [word, pdf...]
+		Satellite Signals etc..
+
+Formats:
+		a) File stream format [data stored in files and folders]
+		b) Database format [ data stored in the form of tables]
+
+Storages:
+		a) On-Premise : With in your company storage
+		b) Cloud: Storing in other organizations and connecting through web url and account
+
+
+========================================================================================
+c) BI, BI Tools, BI Technologies, Power BI
+========================================================================================
+
+BI : Business Intelligence or Intelligence to the Business or Decision Support to the Business
+
+	Here we convert "Normal data" into "decision making" data.
+	
+	Normal Data
+			Irctc tatkal booking information [pnr, amount, passengers, start dt, end dt]
+
+	Analytical [BI] Data
+			In todays tatkal, "how many" trains having full booking, "no booking","top 5 trains" having demand
+
+BI Input: Above Data with any format and from any storage
+
+		Legacy BI Tools: [Since 1990]
+		
+				Structured Data
+				ON-Premises
+				Less reports, less sized reports etc.
+				Web / Desktop view of reports and dashboards
+				
+		Modern BI [Since 2010]
+		
+				All types of data
+				On-Premises / Cloud
+				More reports, more sized reports
+				Web / Desktop / Mobile / Tab view of reports and dashboards
+				
+BI Output: Report / Dashboard
+
+	Report
+		"Individual operation" specification component [Low level data presentation]
+		Company contain many reports
+		Reports may be used by everone in the organation
+		Many visuals and may show more rows
+		
+		Exmple: Cash withdraw from savings account
+
+	Dashboard
+		"Specific business functionality"[ High level business information] specification component
+		Company contain less dashboards
+		Dashboards used by high level resources and mgmt team in the the organation
+		Simple, Cute and less visuals and show less rows
+		
+		Ex: Cash withdraw and deposit flow in savings account[ complete savings account analysis]
+
+BI Process: Which is involved between Input and Output
+
+	It is a layered process
+
+	Input Data--> ETL--> DWH--> Semantic--> Reporting-->Decision Making
+	
+	General Public / Business Executives-->Input Data-->
+	
+	Extract Transform Load--> 
+	
+	Data Warehouse (Data Huge Storage Area, bigger in size for historical and incremental data storage)--> 
+	
+	Semantic(A Special Kind of DB Design for easy aggregates storage and analysis, small in size)-->
+	
+	Reporting (Reports and Dashboards)--> 
+	
+	Decision Making (SMEs, Managers, Vps, Data Scientists, Data Stewards, Executives etc.)
+
+========================================================================================
+Power BI Definition, Addional Support to BI and End-End  Process 
+========================================================================================
+Power BI:
+
+	"Powering BI"
+	"Adding Power to BI"
+	
+	To the existing BI process adding Power
+	
+	a) End-End BI in a single application [ SSBI: Self Service BI]
+	b) Cloud Supporting [ Cloud data and Cloud reporting]
+	c) Big Data Supporting
+	d) Multi platform display [Mobile, Web, Desktop]
+	e)Many Sources Connectivity [ all types of data, any storage and any format]
+	f) Wonderful report management [Share, Subscribe, Alerts, Mobile Apps, Refresh Data, Colloborate work etc.]
+	g) Very good communcation between management and development team using chats/ comments in the reports / dashboards etc.
+	
+
+	
+Power BI Definition:
+
+	Self Service, cloud based and on-premises, data model supportive, visualization, analytical
+	and reporting tool designed for "Datawarehouse and Business Intelligence " and "Insights and 	Analytics" operations.
+
+
+Power BI End-End Process:
+
+	a)	RETRIEVE DATA [structured, semi structured, and unstructured]
+	b)	Shape  Data [Shaping]
+	c)	Model Data [Modelling]
+	d)	Report Data [Reporting]
+	e)	Publish Report [Publishing]
+	f)	Create Dashboard and mobile report creations
+	g)	Share or subscribe reports and dashboards 
+	h)	Access the reports and dashboard for  customer decision making, analysis, analytics and 	insights
+	i)	Customer Reviews to the designers and other colleagues
+========================================================================================
+Power BI Version, Releases and Position
+========================================================================================
+What is the position of Power BI in the current IT?
+
+Gartner Rating:
+
+https://info.microsoft.com/ww-landing-gartner-mq-bi-analytics-2019.html?LCID=EN-US
+
+Forrester Wave Rating:
+
+https://info.microsoft.com/ww-landing-Forrester-Wave-Enterprise-BI-platforms-website.html? LCID=EN-US
+
+
+Power BI Releases:
+
+We have month update in Power BI. We don't have version and release kind of stuff.
+
+In the month update, we will find  a) New features b) Upcoming features c) Depecations to old features d) Removal of old features
+
+ https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-may-2018-feature-summary/
+
+POWER BI Main Web Site:
+
+                https://powerbi.microsoft.com/en-us
+
+Power BI Desktop:
+
+               https://powerbi.microsoft.com/en-us/desktop
+
+Power BI Report Server Desktop:
+
+               https://powerbi.microsoft.com/en-us/report-server
+
+Power BI Cloud Service:
+
+https://app.powerbi.com
+
+Power BI Developer:
+
+https://powerbi.microsoft.com/en-us/developers
+
+Microsoft Flow:
+
+https://flow.microsoft.com
+
+Power Apps:
+
+https://make.powerapps.com
+
+========================================================================================
+Power BI Learning [Simple / Medium / Complex]
+========================================================================================
+Very simple to learn
+
+Full GUI
+
+Only the little complexity at the time of DAX [ Data Analysis Expressions]. DAX has set of functions similar to excel and we need it during
+calculations and modeling.
+
+No coding
+
+In real time you may work with any source [ Excel, Flat file, XML file, Json File, Relational Databases (Oracle, SQL Server, Teradata), 
+Data warehouses, Cubes, Cloud Applications, File Streams etc...]
+
+But you need to have little understanding about SQL [around 8 topics] for better kick off.
+
+We will take 3-4 hours SQL.
+
+========================================================================================
+Power BI Components
+========================================================================================
+Power BI Components
+
+Cloud Operations [95% companies using]
+
+a) Power BI Cloud Desktop [Power Query, Power Pivot, Power View] : Non Paginated Reports
+b) Power BI Cloud Service [app.powerbi.com]
+
+On-Premises operation [ 5%...increasing now]
+
+c) Power BI Report Server Desktop [exclusive]
+d) Power BI Report Server [exclusive]
+
+Actionable component [Required]
+
+e) Power Automate [exclusive] / Microsoft Flow
+
+User friendly [ through mobile / tab customers access, add reviews, add data etc.]
+
+f) Power APPs
+
+Additional components
+
+f) Microsoft Cubes [exclusive]
+g) REST Understanding [exclusive]
+h) Power BI Report Builder [exclusive]
+
+	Paginated Report: Each page having certain number of records / certain category records 
+=======================================================================================
+Initial Understanding Of Power Platform [ Connect to each URL with the given email and pasword]
+=======================================================================================
+POWER BI Main Web Site: 
+
+		To understand what type of highlights available in Power BI from Microsoft [documentation and video]. Why Power BI?
+
+                https://powerbi.microsoft.com/en-us
+
+Power BI Desktop Download [Cloud]: 
+
+		This is the component required to create report [Get Data, Transform Data, Model Data, Visualize, Secure Data, "Publish" Report]
+
+               https://powerbi.microsoft.com/en-us/desktop
+
+Power BI Report Server Desktop Download [On-Premise]:
+
+		This is the component required to create report [Get Data, Transform Data, Model Data, Visualize, Secure Data, "Save" Report]
+
+               https://powerbi.microsoft.com/en-us/report-server
+
+Power BI Cloud Service [Power BI Service]:
+
+		Reports / Dashboards Management Service [sharing, subscribe, alert, refresh, create, data flow, and many]
+
+		https://app.powerbi.com
+
+Power BI Developer:
+
+		To register apps and to create app ids to work with different applications.
+
+		https://powerbi.microsoft.com/en-us/developers
+
+Microsoft Flow:
+
+		It perform automate operations [schedulig and actions]. This can also be called as Power Automate.
+
+		https://flow.microsoft.com
+		
+		Example:
+		
+		a) You want an important email indication information in your mobile message.
+		
+		b) You want to refresh power bi dataset, send an email, call app resources for little management, send an email,
+			trigger an SSIS package, send an email etc.
+			
+			Series of operations I would like to schedule, then go for Power Automate.
+
+Power Apps:
+
+		User Friendly Mobile APPs creation with Low Code [ no need to write huge coding like .net, java, php, python etc.].
+
+		https://make.powerapps.com
+======================================================================================
+Frequently used components operations in Power BI?
+=======================================================================================
+
+Which components we use frequently in real-time?
+==============
+a) Power BI Desktop
+==============
+	Create report by implementing Querying, Pivoting, Modeling, Viewing etc. operations
+
+	Get Data--> Transform Data--> Model Data--> Present Data--> Security--> Publish / Save to Server / Service
+
+	OS: windows 7 or above 
+	RAM: 2 GB recommended
+	Processor: 1.5 GHz recommended
+	Display Size: 1300 * 1200 [better visualization of report]
+
+	Software download: Google it and download [even in the real-time]
+	Size: 300 MB
+	Install: Setup.exe-->Next->Next->Finish
+	Post installation: Desktop icon [verify]
+
+============
+b) Power BI Service
+============
+	Cloud Service, where reports stored and managed [ very powerful management].
+	
+	We access through URL [app.powerbi.com] with an account [Free, Pro, Premium].
+	
+	Store reports
+	This will manage the reports [ Share, Subscribing, Alerting, Refresh Reports etc.]
+
+Real-world Vs Power BI:
+===============
+Nextflix, HotStar, Prime..accounts
+
+Streaming applications / cloud applications required accounts
+
+a) Individual account: Less amount
+
+b) Group account: Accessable in multiple devices [mobile, tab, TV ad many other] charge diff
+
+What is account?
+
+It is the authentication to work with web / stream / cloud applications.
+
+Power BI Accounts:
+
+a) Free Account:
+
+		With college ID, UniversityID, or companyID we can create.
+		This is helpful to create reports and publish.
+		No report management
+		
+b) Pro account:
+
+		Only one user, 10 GB storage, $10 / month
+		Less resources, less data, less reports
+
+		Small and medium organizations using more and more
+		
+c) Premium account: [Capacity pricing account: Based on the capacity, the price will be] : Mostly corporate companies
+
+		P1
+			8 core,25 GB RAM, TB, multiple users, multiple reports, $5000 / month
+
+		P2
+			16 core,50 GB RAM, TB, multiple users, multiple reports, $10000 / month
+
+
+		P3
+
+			32 core,100 GB RAM, TB-PB, multiple users, multiple reports, $20000 / month
+
+
+Note: Institute will give you a pro account for operations
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Which account your current organization is using?
+
+My orgnization using multiple pro accounts (7) and two P1 accounts and 1 P2 account.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+How to create our own Power BI account? 
+
+a)From your domain email account[ college/ university/ organization ]-----------> Power BI Account
+
+https://powerbi.microsoft.com/en-us/landing/signin/ 
+
+b) Power BI account------> Pro / Premium account
+
+	connect to https://app.powerbi.com, specify convert to Premium / Pro account
+
+Note: You can convert this account into Pro / Premium based on your interest.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+One practical:
+
+I took one flat file and one excel, retrieved data using PBI Desktop, Modeled data, reported data, published report.
+Open PBI Services, viewed it and shared / subscribed it.
+
+======================================================================================
+PDF 1 : Topics
+
+Demo Conclusion 
+Power BI Desktop Understanding
+Accounts [Free, Pro, Premium]
+Power Bi Account Creation
+Power BI Data Modes[Load, Import, Direct Query, Connect Live]
+=======================================================================================
+PDF 3:
+
+Power BI Initial Practicals [ Retrieving data from multiple data feeds]
+
+a) Explaining PBI Desktop Interface
+
+b) Retrieving data from multiple sources [flatfile, excel, relational table, cube tables, web url, json, Azure SQL db etc.]
+	
+
+Working on multiple input feeds
+
+1. Retrieving from web [completed]
+2. Retrieve from Excel [completed]
+3. Retrieve from flat file [ completed]
+4. Retrieve from JSON file [completed]
+		Java Structured Object Notation File
+		Semi structured file
+		Contains attributes and values [properties and values]
+		
+		To get data from this little more care is required.
+
+5. Create own query dynamically [completed]
+6. Create a query using Blank Query option [completed]
+
+7. Retrieval from Table 
+8. Retrieval from view
+9. Retrieval from procedure
+10. Retrieval from cube
+11. Retrieval from Azure SQL database
+12. Retreival of files data from a folder [set of files combining and loading]
+
+etc.
+
+
+
+
+Power BI Service
+------------------
+Workspace: Working area where we keep dashboards, reports, workbooks, datasets, and data flows.
+
+APPSpace: Required reports, dashboards, workbooks sharing area.
+	This is accessable through mobile / web / desktop.
+
+Objective: Create a workspace, appspace, and accessing the app using the credentials given
+
+1.Vinaytech_2@vinaytechhouse.com user created an app [provided privilege to the entire organization team]
+2. Other team in the organization can use that
+	a) They can connect through mobile app
+	b) They can connect through web
+	etc.
+
+What is the URL used to create a Power BI account from EMAIL account?
+
+https://powerbi.microsoft.com/en-us/landing/signin/ 
+
+
+========================================================================================
+Power BI Case Study Implementation
+========================================================================================
+
+Case Study Implementation:
+
+Prepare a decision support system which displays family expenses data in a meaningful way 
+
+a) Which reason I have spent more money?
+b) Top 3 spending in the lockdown period?
+c) Which locations I visited frequently?
+
+
+Many additional operations.
+
+
+Power BI Desktop [ Report Creation]
+
+	Extract Data, Transform Data, Model Data, Report View, Secure, and Publish
+
+Power BI Service [Report Management]: 
+
+It is cloud service, which perform the below operations.
+
+1.Create report
+2. Create dashboard
+3. Share report or dashboard
+4. Subscribe dashboard
+5. Workspace creation possible
+6. Content pack creation possible
+7. Gateway configuration possible
+8. Appspace creation 
+9. Mobile view
+10. Paginated reports
+11.Dataflows
+12. REST API
+13. Power BI Embedding
+
+
+************************************************
+Case Study Implementation: [Cloud Approach] 
+*************************************************
+a) Download and Install Power BI Desktop
+
+	Google it, down load, size is 300 MB, Click Next Next Finish
+	[ https://powerbi.microsoft.com/en-us/downloads/]
+	
+	Power BI Desktop Installation Requirement:
+
+		Windows 7 or above OS
+		RAM: 2 GB minimum
+		CPU: 1.5 Ghz
+		Display Size: 1300 * 800
+		Power BI Desktop Installation Steps:
+		Setp.exeNext->Next->Finish
+
+
+	A short cut installed on the desktop
+	
+	Click the short cut to implement the below
+
+
+b) Get Data→Family Expenses Data→Transform Data→Consider First Row as Header→Close and Apply 
+c) Take Table Visual, Pie Visual, and Funnel visual and arrange fields 
+d) Publish to cloud 
+e) Connect to cloud, browse the report under workspace, click Share and Subscribe. 
+f) Go to email and click the report to see the data
+
+========================================================================================
+Power BI Real-Time Projects 
+=======================================================================================
+
+Project 1:
+
+Project 1	OLTP-->STAGES-->DWH--> CUBES--> POWER BI REPORTING 
+
+
+Project 2:
+
+Project 2	Data feedsPower Query(ET)Power Pivot(Shape and Model)-->Power View (Reporting)PublishDashboardsManagement
+
+========================================================================================
+Better Learning Of Power BI  
+=======================================================================================
+
+1. POWER BI / BI PROJECT ENVIRONMENT:
+
+2. Data warehouse and Data Model fundamentals:
+
+3. AZURE:
+
+What is Azure, how do we connect to SQL database, Datawarehouse, and Analysis Services?
+Try to know what is Data Lake and Data Factory?
+
+4. SQL:
+	a)If you are working with databases, to implement basic operations, SQL is required
+	b)Data Validation against databases [Unit testing]
+
+
+5. POWER BI COMPONENTS
+
+========================================================================================
+Power BI Resources in the projects
+=======================================================================================
+
+a) Power BI Developer
+
+b) Power BI Support Resource
+
+c) Power BI Administrator
+
+
+========================================================================================
+What all required to work in Power BI Projects?
+=======================================================================================
+
+a) Power BI Desktop
+
+b)Power BI Service Account [ Pro / Premium]
+
+c) Various Sources Connectivity
+
+========================================================================================
+What kind of tools / applications / processes we will find in real-time projects?
+=======================================================================================
+
+a) Applications: 
+			Power BI Desktop, DAX Studio, SSMS, SSDT, Power BI Report Builder, Power BI Report Server etc...
+
+b) Versioning Tools:
+
+			Team Foundation Server, Git, Sharepoint etc...
+			
+c) Scheduling Tools:
+
+			Default Scheudling [Power BI Service Scheduling]
+			Microsoft Flow
+			
+d) Life Cycle :
+
+			Agile Scrum 
+			
+e) DWH approach:
+
+			Bottom up approach
+			
+			
